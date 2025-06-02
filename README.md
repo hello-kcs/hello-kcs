@@ -4,6 +4,8 @@
 
 💻 Alongside my core studies, I'm diving into the world of **programming and software development** to build strong tech skills.
 
+i am a girl
+
 ### 🚀 What I'm Learning
 - 🌐 **C** – My starting point in programming fundamentals
 - ⚙️ **C++** – For object-oriented programming and problem solving
@@ -15,7 +17,7 @@
 I'm using this space to:
 - Share my coding practice and progress
 - Upload small projects and exercises
-- Track my journey from a beginner to a confident coder!
+- Track my journey from a beginner to a confident coder!  
 
 > 📌 *Learning programming as a civil engineer is my way of building both real-world and digital foundations.*
 
