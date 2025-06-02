@@ -4,8 +4,6 @@
 
 💻 Alongside my core studies, I'm diving into the world of **programming and software development** to build strong tech skills.
 
-i am a girl
-
 ### 🚀 What I'm Learning
 - 🌐 **C** – My starting point in programming fundamentals
 - ⚙️ **C++** – For object-oriented programming and problem solving
