@@ -2,7 +2,7 @@
 
 🎓 I'm currently pursuing **B.Tech in Civil Engineering** at **IIT (BHU) Varanasi**, batch of **2023–2027**.
 
-💻 Alongside my core studies, I'm diving into the world of **programming and software development** to build strong tech skills.
+💻 Alongside my core studies, I'm diving into the world of **programming and machine learning** to build strong tech skills.
 
 ### 🚀 What I'm Learning
 - 🌐 **C** – My starting point in programming fundamentals
