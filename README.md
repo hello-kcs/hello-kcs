@@ -1,26 +1,32 @@
 # 👋 Hi there, I'm Kashish Kumari!
 
-🎓 I'm currently pursuing **B.Tech in Civil Engineering** at **IIT (BHU) Varanasi**, batch of **2023–2027**.
+🎓 B.Tech Civil Engineering Student at IIT (BHU) Varanasi
+📅 Batch: 2023–2027
 
-💻 Alongside my core studies, I'm diving into the world of **programming and machine learning** to build strong tech skills.
+I'm a Civil Engineering student exploring the intersection of engineering, programming, and data-driven technologies. Alongside my core studies, I am developing skills in software development, data analytics, and machine learning to build practical and impactful solutions.
 
-### 🚀 What I'm Learning
-- 🌐 **C** – My starting point in programming fundamentals
-- ⚙️ **C++** – For object-oriented programming and problem solving
-- 🗃️ **SQL** – To understand databases and data management
-- 📊 **Data Analytics** – Exploring how to derive insights from data
-- 🔧 Git & GitHub – For version control and collaboration
+🚀 My Tech Journey
 
-### 🛠️ Projects & Practice
-I'm using this space to:
-- Share my coding practice and progress
-- Upload small projects and exercises
-- Track my journey from a beginner to a confident coder!  
+Currently learning and working with:
 
-> 📌 *Learning programming as a civil engineer is my way of building both real-world and digital foundations.*
+🐍 Python — Data analysis, automation, and machine learning applications
+💻 C & C++ — Programming fundamentals, OOP concepts, and problem-solving
+🗃️ SQL — Databases, data querying, and management
+📊 Data Analytics — Exploring patterns and extracting insights from data
+🤖 Machine Learning — Building predictive models and understanding AI concepts
+🔧 Git & GitHub — Version control and project collaboration
+🛠️ What You'll Find Here
 
----
+This GitHub is a reflection of my learning journey, featuring:
 
-### 📫 Let's Connect!
-Feel free to connect with me on [LinkedIn](#) or follow my journey here on GitHub!
+📌 Programming practice and problem-solving
+📌 Data analytics projects
+📌 Machine learning experiments
+📌 Academic and personal projects
+📌 My progress in building strong technical foundations
+🌱 Current Focus
+
+I am working towards combining my background in Civil Engineering with AI, Data Science, and Programming to develop technology-driven solutions for real-world challenges.
+
+"Engineering builds structures. Technology builds possibilities."
 
